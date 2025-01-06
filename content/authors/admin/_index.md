@@ -20,39 +20,39 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+#role: Student
 
 # Organizations/Affiliations to display in Biography blox
-rganizations:
+'''rganizations:
   - name: DIU
-    url: https://DIU.com/
+    url: https://DIU.com/'''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "mailto:your-email@example.com"
+    url: "shourovpal32@gmail.com"
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/shourov_pal
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/sh0ur0v_p/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+    url: https://www.linkedin.com/in/shourov-paul-b052a7259/
+'''  - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/'''
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Electronics and Embedded Systems
+  - Robotics and Automation
+  - Digital Signal Processing (DSP)
 
 education:
-  - area: PhD Artificial Intelligence
+'''  - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -71,19 +71,20 @@ education:
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit'''
+  - area: Bsc Electrical and Electronic Engineering
+    institution: Daffodil International University
+    date_start: 2021-12-21
+    date_end: 2025-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.88/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+      - Communication I,II
+      - Digital Signal Processing 
+      - power system analysis
+      - power system protection
+'''work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ""
@@ -105,7 +106,7 @@ work:
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit'''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,16 +145,16 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Bangla
     percent: 75
-  - name: Portuguese
+  - name: Hindi
     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+'''awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: "2023-11-25"
@@ -178,9 +179,9 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.'''
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shourov Paul is a passionate 4th-year Electrical and Electronics Engineering student with a strong interest in electronics, robotics, and digital signal processing. He thrives on solving real-world problems and has worked on innovative projects like Scoppy and micro tunnel boring machines. Shourov is also exploring research opportunities in electronics, aiming to contribute to cutting-edge advancements in the field.
