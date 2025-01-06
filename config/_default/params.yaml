@@ -42,7 +42,7 @@ footer:
   copyright:
     notice: "© 2024 Shourov Paul. All rights reserved."
     license:
-      enable: false #default: true
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
